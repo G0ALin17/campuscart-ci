@@ -189,3 +189,4 @@ Submit repository URL, production URL (if deployment succeeded), screenshot of g
 Questions: What triggers a workflow? What is a runner? Why use npm ci? What does Semgrep inspect? Does a green scan prove security? Does GitHub Actions automatically block Vercel? What changes when you merge a PR?
 
 Official references: https://docs.github.com/actions ; https://semgrep.dev/docs/ ; https://vercel.com/docs/git ; https://nextjs.org/docs
+# campuscart-ci
